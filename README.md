@@ -1,1 +1,3 @@
 # JavaScript
+
+<script></script>
